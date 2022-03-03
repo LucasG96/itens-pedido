@@ -368,16 +368,6 @@
       },
       "itensPedido": [
         {
-          "idItemPedido": 15241,
-          "tipoProduto": 2,
-          "nomeProduto": "Kit Personna Nutri",
-          "beneficiario": {
-            "nome": "Jorge da Silva Costa"
-          },
-          "status": [],
-          "resultado": null
-        },
-        {
           "idItemPedido": 15242,
           "tipoProduto": 3,
           "nomeProduto": "Kit Personna Fitness",
@@ -395,3 +385,4 @@
       ]
     }
   ]
+}
